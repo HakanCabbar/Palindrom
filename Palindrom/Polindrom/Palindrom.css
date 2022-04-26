@@ -1,0 +1,54 @@
+body{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: dodgerblue;
+
+
+
+}
+
+
+h1{
+
+    position: absolute;
+
+    bottom: 500px;
+}
+
+#kontrol{
+     position: absolute;
+     left: 815px;
+}
+#kontrol2{
+    position: absolute;
+    left: 815px;
+    bottom: 297px;
+}
+#kontrol1{
+    position: absolute;
+    left: 815px;
+
+    bottom: 423px;
+}
+#text{
+
+    position: relative;
+    right: -129px;
+}
+
+#text1{
+
+    position: relative;
+    bottom: 65px;
+    left: -41px;
+}
+
+#text2{
+
+    position: relative;
+    bottom: -60px;
+    left: -212px;
+}
